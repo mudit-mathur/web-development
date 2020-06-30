@@ -1,0 +1,36 @@
+div{
+    background: purple;
+    color: white;
+}
+#quote{
+    font-family:'verdana','gill sans';
+    color: black;
+}
+#hello{
+    background:black;
+    color:white;
+    border: 3px solid red ;
+    border-radius: 4px;
+    font-style: italic;
+    margin:40px 40px;
+    position:fixed;
+}
+
+header{
+    background:#ffff00
+}
+footer{
+    background:#ffff00
+}
+h5:hover{
+    background: purple;
+    color:red;
+    cursor: pointer;
+    transform: scale(2);
+}
+body{
+    background-color:linear-gradient(red orange yellow);
+}
+#link{
+    color:'white';
+}
